@@ -1,3 +1,15 @@
+# KITTI 데이터셋 (절대 커밋 금지 - 용량 너무 큼)
+kitti/
+dataset/
+*.zip
+*.png
+*.jpg
+output/
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
